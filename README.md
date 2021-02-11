@@ -1,6 +1,8 @@
-# Olá Pessoas👋 Bruno aqui, Mas podem me chamar de Jamal  😅
+# Olá Pessoas👋 
 
 ## Frontend Developer 
+
+### Bruno aqui, Mas podem me chamar de Jamal😅
 
 - Javascript🤗
 - CSS (SCSS) 🎨
