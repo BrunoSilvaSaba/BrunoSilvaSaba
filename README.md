@@ -10,4 +10,4 @@
 - Javinha ✍
 - HTML ☄
 
-![](https://giphy.com/gifs/naruto-shippuden-kakashi-hatake-zwDNti5vWFujS)
+![](https://media.giphy.com/media/zwDNti5vWFujS/giphy.gif)
