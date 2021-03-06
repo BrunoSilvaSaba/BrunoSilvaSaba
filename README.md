@@ -2,11 +2,9 @@
 
 ## Frontend Developer 
 
-### Bruno aqui, Mas podem me chamar de Jamal😅
-
 - Javascript🤗
 - CSS (SCSS) 🎨
-- Vue.js 🤖
+- Vue.js 🤖            
 - Javinha ✍
 - HTML ☄
 
