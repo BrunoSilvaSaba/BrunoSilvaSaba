@@ -8,4 +8,4 @@
 - Javinha ✍
 - HTML ☄
 
-![](https://media.giphy.com/media/zwDNti5vWFujS/giphy.gif)
+![]()
