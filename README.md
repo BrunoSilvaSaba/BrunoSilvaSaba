@@ -5,7 +5,7 @@
 - Javascript🤗
 - CSS (SCSS) 🎨
 - Vue.js 🤖            
-- Javinha ✍
+- Java ✍
 - HTML ☄
 
 ![]()
